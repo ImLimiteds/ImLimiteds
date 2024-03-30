@@ -12,10 +12,10 @@ src="https://img.shields.io/badge/2_Years-Python-darkgreen">
 <hr> 
 
 
-***Current Projects***
+***__Current Projects__***
 
 ```
-Byte - A Discord Bot
+● Byte - A Discord Bot
 ```
 
 
