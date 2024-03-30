@@ -1,5 +1,5 @@
 ***Hey! Im Limiteds!***
-/n
+<hr>
 <img alt="Static Badge" src="https://img.shields.io/badge/My_Discord-@imlimiteds-purple">
 
 
