@@ -34,7 +34,7 @@ src="https://img.shields.io/badge/Developer-Cyni-darkblue">
 
 <hr>
 
-<iframe src="https://wl.hetrixtools.com/report/uptime/3f00f14d97fb5d669fbe08a13314570b/" width="100%" scrolling="no" style="border:none;" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+![Uptime Report](https://img.shields.io/badge/Uptime-<iframe%20src%3D%22https%3A%2F%2Fwl.hetrixtools.com%2Freport%2Fuptime%2F3f00f14d97fb5d669fbe08a13314570b%2F%22%20width%3D%22100%25%22%20scrolling%3D%22no%22%20style%3D%22border%3Anone%3B%22%20sandbox%3D%22allow-scripts%20allow-same-origin%20allow-popups%22></iframe>-blue)
 
 
 
