@@ -32,6 +32,11 @@ src="https://img.shields.io/badge/Support-Astro_Birb-blue">
 <img alt="Static Badge"
 src="https://img.shields.io/badge/Developer-Cyni-darkblue">
 
+<hr>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/davidjbradshaw/iframe-resizer@master/js/iframeResizer.min.js"></script>
+<iframe class="htframe" src="https://wl.hetrixtools.com/report/uptime/3f00f14d97fb5d669fbe08a13314570b/" width="100%" scrolling="no" style="border:none;" sandbox="allow-scripts allow-same-origin allow-popups" onload="iFrameResize([{log:false}],'.htframe')"></iframe>
+
 
 
 
