@@ -26,6 +26,8 @@ src="https://img.shields.io/badge/Founder-UnLimited_Systems-white">
 src="https://img.shields.io/badge/Senior_Support-ERM-red">
 <img alt="Static Badge"
 src="https://img.shields.io/badge/Support-Astro_Birb-blue">
+<img alt="Static Badge"
+src="https://img.shields.io/badge/Developer-Cyni-darkblue">
 
 
 
