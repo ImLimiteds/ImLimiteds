@@ -7,9 +7,23 @@
 ***Languages***
 
 <img alt="Static Badge"
-src="https://img.shields.io/badge/3_Years-Python-Dark_Green">
+src="https://img.shields.io/badge/2_Years-Python-Dark_Green">
+
+<hr> 
 
 
-**Server Uptime For Byte & Cyni**
-https://status.imlimiteds.com
+***Current Projects***
+
+
+
+<hr>
+
+***Current Positions***
+
+<img alt="Static Badge"
+src="https://img.shields.io/badge/Senior_Support-ERM-Red">
+
+
+
+
 
