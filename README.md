@@ -3,9 +3,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Discord-@imlimiteds-purple">
 
 <hr>
-**Languages**
+***Languages***
 <img alt="Static Badge"
-src="https://img.shields.io/badge/Python
+src="https://img.shields.io/badge/3_Years-Python-Dark_Green">
 
 
 **Server Uptime For Byte & Cyni**
