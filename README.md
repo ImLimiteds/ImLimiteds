@@ -14,6 +14,9 @@ src="https://img.shields.io/badge/2_Years-Python-darkgreen">
 
 ***Current Projects***
 
+```
+Byte - A Discord Bot
+```
 
 
 <hr>
