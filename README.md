@@ -11,7 +11,7 @@ src="https://img.shields.io/badge/E‐Mail-limiteds@imlimiteds.com-darkorange">
 <img alt="Static Badge"
 src="https://img.shields.io/badge/2_Years-Python-darkgreen">
 <img alt="Static Badge"
-src="https://img.shields.io/badge/Learning-Ruby-Red">
+src="https://img.shields.io/badge/Learning-Ruby-darkred">
 
 
 <hr> 
