@@ -38,6 +38,7 @@ src="https://img.shields.io/badge/Support-Astro_Birb-blue">
 src="https://img.shields.io/badge/Developer-Cyni-darkblue">
 
 
+[![Limiteds GitHub stats](https://github-readme-stats.vercel.app/api?username=ImLimiteds)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
