@@ -1,7 +1,7 @@
 #  About Me:
-**My Name Is Limiteds & I am a Python Programmer, and I'm still learning more about it every day! My goal is to create a functional Discord bot in use in multiple servers worldwide! I am also learning aboht AI/ML and I am very passionate about Chemistry.
+**My Name Is Limiteds & I am a Python Programmer, and I'm still learning more about it every day! My goal is to create a functional Discord bot in use in multiple servers worldwide! I am also learning aboht AI/ML and I am very passionate about Chemistry.**
 
-Im also learning Ruby, Primarily to create websites using Rails or Sinatra. **
+**Im also learning Ruby, Primarily to create websites using Rails or Sinatra. **
 
 
 # 💻 Tech Stack:
