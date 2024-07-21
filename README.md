@@ -1,5 +1,4 @@
 
-
 ### @ImLimiteds  
 Hi! Im **Limiteds**, a 13 year old from **Australia**. I currently create **Discord Bots** in **Python** and I am hoping to start my own company. I know a few languages such as **Ruby**, **Python**, and I am learning **Rust** as well as **React JS**.  I am quite passionate about **Chemistry** and **Science**.   
   
@@ -55,18 +54,6 @@ Hi! Im **Limiteds**, a 13 year old from **Australia**. I currently create **Disc
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/cyberworks" target="_blank" style="display: inline-block;">
                 <img
@@ -75,6 +62,3 @@ Hi! Im **Limiteds**, a 13 year old from **Australia**. I currently create **Disc
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
