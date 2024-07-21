@@ -1,4 +1,3 @@
-
 ### @ImLimiteds  
 Hi! Im **Limiteds**, a 13 year old from **Australia**. I currently create **Discord Bots** in **Python** and I am hoping to start my own company. I know a few languages such as **Ruby**, **Python**, and I am learning **Rust** as well as **React JS**.  I am quite passionate about **Chemistry** and **Science**.   
   
@@ -7,8 +6,6 @@ Hi! Im **Limiteds**, a 13 year old from **Australia**. I currently create **Disc
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -18,17 +15,7 @@ Hi! Im **Limiteds**, a 13 year old from **Australia**. I currently create **Disc
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
@@ -48,9 +35,9 @@ Hi! Im **Limiteds**, a 13 year old from **Australia**. I currently create **Disc
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLimiteds&hide_border=true&layout=compact" align="center" /></div>  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ImLimiteds&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLimiteds&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
