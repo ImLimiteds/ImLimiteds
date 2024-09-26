@@ -20,7 +20,7 @@
 <h2 align="center">Tools & Technologies I Use</h2>
 <table align="center">
   <tr>
-    <th>Python Ecosystem</th>
+    <th>Python</th>
     <th>Web Development</th>
     <th>Databases</th>
     <th>Development Tools</th>
