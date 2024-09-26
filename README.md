@@ -1,9 +1,9 @@
 <h1 align="center">@Imlimiteds</h1>
-<p align="center">Hey, I'm <strong>Limiteds</strong>, a 13 year old from <strong>Australia</strong>. I currently create <strong>Discord Bots</strong> in <strong>Python</strong>. I am currently learning <strong>C++</strong> to develop increasingy complex programs. </p>
+<p align="center">Hey, I'm <strong>Limiteds</strong>, a 13 year old from <strong>Australia</strong>. I currently create <strong>Discord Bots</strong> in <strong>Python</strong>. I am currently learning <strong>C++</strong> to develop increasingly complex programs.</p>
 <h2 align="center">About me</h2>
 <p align="center">
 <ul>
-  <li> I am very passionate about <strong> Chemistry</strong>, <strong> Artificial Intellegence</strong> and <strong>Physics</strong>
+  <li> I am very passionate about <strong> Chemistry</strong>, <strong> Artificial Intelligence</strong> and <strong>Physics</strong>
 </ul>
 </p>
 <h2 align="center">Languages I use</h2>
@@ -79,6 +79,9 @@
       <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" height="40" alt="CMake" />
       <br>CMake
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <br>Docker
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
